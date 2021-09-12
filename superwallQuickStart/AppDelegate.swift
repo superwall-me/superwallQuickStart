@@ -13,8 +13,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        Paywall.debugLogsEnabled = true
-        Paywall.configure(apiKey: "Your API Key")
+        Paywall.debugMode = true
+        Paywall.configure(apiKey: "Your API Key") // Visit https://docs.superwall.me/docs/api-keys
         return true
     }
 
