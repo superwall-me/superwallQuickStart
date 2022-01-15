@@ -12,7 +12,7 @@ This sample uses:
 - iOS 14
 - Swift 5
 
-See minimum platform version requirements for Superwall's *Paywall* SDK [here](https;//docs.superwall.me/docs/ios).
+See minimum platform version requirements for Superwall's *Paywall* SDK [here](https://docs.superwall.me/docs/ios#requirements).
 
 ## Features
 
